@@ -1,0 +1,53 @@
+﻿
+@font-face {
+    font-family: 'garuda';
+    src: url('fonts/garuda.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Interstate';
+    src: url('fonts/Interstate-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'LucidaGrande';
+    src: url('fonts/LucidaGrande.ttf') format('truetype');
+}
+body {
+    font-family: "Interstate","LucidaGrande","Lucida Sans Unicode","Lucida Sans","garuda","Verdana","Tahoma","sans-serif;" color: #fff;
+    padding-top: 50px;
+}
+
+.mytable {
+    width: 42%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 160px;
+}
+
+.heading-intro {
+    margin-top:0px;
+    padding:10px;
+    color: #fff; 
+    font-weight:bolder;
+}
+
+.myButton {
+    background-color: #FF4300;
+    border-color: #FF4300;
+    padding: 13px 23px;
+    height: 45px;
+    color: #fff;
+    font-weight:100;
+    font-size:18px;
+    min-width:200px;
+}
+
+.bannerImage{
+    max-width:100%;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.nav-bar {
+    background-color: #ff4300;
+    border-color: #ff4300;
+}
