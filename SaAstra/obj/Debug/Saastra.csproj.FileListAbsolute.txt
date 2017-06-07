@@ -32,3 +32,37 @@ c:\users\ishwor khadka\documents\visual studio 2017\Projects\Saastra\Saastra\bin
 c:\users\ishwor khadka\documents\visual studio 2017\Projects\Saastra\Saastra\obj\Debug\Saastra.csprojResolveAssemblyReference.cache
 c:\users\ishwor khadka\documents\visual studio 2017\Projects\Saastra\Saastra\obj\Debug\Saastra.dll
 c:\users\ishwor khadka\documents\visual studio 2017\Projects\Saastra\Saastra\obj\Debug\Saastra.pdb
+E:\Github\SaAstra\Saastra\bin\roslyn\csc.exe
+E:\Github\SaAstra\Saastra\bin\roslyn\csc.exe.config
+E:\Github\SaAstra\Saastra\bin\roslyn\csc.rsp
+E:\Github\SaAstra\Saastra\bin\roslyn\csi.exe
+E:\Github\SaAstra\Saastra\bin\roslyn\csi.rsp
+E:\Github\SaAstra\Saastra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Github\SaAstra\Saastra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Github\SaAstra\Saastra\bin\roslyn\System.AppContext.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\System.Collections.Immutable.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\System.IO.FileSystem.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\System.Reflection.Metadata.dll
+E:\Github\SaAstra\Saastra\bin\roslyn\vbc.exe
+E:\Github\SaAstra\Saastra\bin\roslyn\vbc.exe.config
+E:\Github\SaAstra\Saastra\bin\roslyn\vbc.rsp
+E:\Github\SaAstra\Saastra\bin\roslyn\VBCSCompiler.exe
+E:\Github\SaAstra\Saastra\bin\roslyn\VBCSCompiler.exe.config
+E:\Github\SaAstra\Saastra\bin\Saastra.dll.config
+E:\Github\SaAstra\Saastra\bin\Saastra.dll
+E:\Github\SaAstra\Saastra\bin\Saastra.pdb
+E:\Github\SaAstra\Saastra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Github\SaAstra\Saastra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Github\SaAstra\Saastra\obj\Debug\SaAstra.csprojResolveAssemblyReference.cache
+E:\Github\SaAstra\Saastra\obj\Debug\Saastra.dll
+E:\Github\SaAstra\Saastra\obj\Debug\Saastra.pdb

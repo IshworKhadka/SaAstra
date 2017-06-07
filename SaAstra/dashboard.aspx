@@ -14,28 +14,22 @@
             <nav class="navbar navbar-default navbar-fixed-top">
                 <div class="container-fluid">
                     <ul class="nav nav-pills" style="background-color: #ff4300">
-                        <li class="active"><a href="#">Home</a></li>
-                        <li><a href="#">Features</a></li>
-                        <li><a href="#">News</a></li>
-                        <li><a href="#">Blogs</a></li>
+                        <li class="active"><a href="#">View Site</a></li>
+                        <li><a href="#">New User</a></li>
 
-                        <li class="dropdown">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Websites<span class="caret"></span>
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Swing</a></li>
-                                <li><a href="#">jMeter</a></li>
-                                <li><a href="#">EJB</a></li>
-
-                                <li class="divider"></li>
-                                <li><a href="#">Support</a></li>
-                            </ul>
-                        </li>
-
-                        <li><a href="#">Support</a></li>
                     </ul>
                 </div>
             </nav>
+            <asp:Menu ID="menuDashboard" runat="server">
+                <Items>
+                    <asp:MenuItem Text="Home" Value="Home"></asp:MenuItem>
+                    <asp:MenuItem Text="Posts" Value="Posts"></asp:MenuItem>
+                    <asp:MenuItem Text="Pages" Value="Pages"></asp:MenuItem>
+                    <asp:MenuItem Text="Users" Value="Users"></asp:MenuItem>
+                    <asp:MenuItem Text="Media" Value="Media"></asp:MenuItem>
+                    <asp:MenuItem Text="Comments" Value="Comments"></asp:MenuItem>
+                </Items>
+            </asp:Menu>
         </div>
     </form>
 </body>
